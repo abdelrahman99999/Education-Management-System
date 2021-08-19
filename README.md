@@ -10,3 +10,6 @@ Interactive c++ console App that do some functionalities of Education Management
 - read / write csv files
 - Input / output User
 - Implemented Linked based List
+
+### Note
+before working in it, you should modify paths of csv files used in program ,to be suitable with your pc   
