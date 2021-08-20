@@ -11,8 +11,8 @@ Interactive c++ console App that do some functionalities of Education Management
 - Input / output User
 - Implemented Linked based List
 
-## DEmo
+## Demo
 video link: https://youtu.be/xn9nOngLHDc
 
-### Note
+## Note
 before working in it, you should modify paths of csv files used in program ,to be suitable with your pc   
